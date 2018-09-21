@@ -7,3 +7,4 @@ to github
 
 Creating a new branch is quick & simple.
 test fast forward
+test fast forward2
