@@ -9,4 +9,8 @@ Creating a new branch is quick & simple.
 test fast forward
 test fast forward2
 test --no-ff
+
 edit issue
+
+add to zan cun
+add to gongzuo 
